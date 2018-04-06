@@ -9,7 +9,7 @@ FUNCTIONALITIES ADDED
 3. modified video driver, added \t and \f
 4. added path in shell
 5. modified cd to support `$ cd `
-6. added enviromnent variable support in shell
+6. added environment variable support in shell
 7. commands:
     i. clear or CTRL+L - clear screen
     ii. listpid - list current PIDs with high and low ticks
